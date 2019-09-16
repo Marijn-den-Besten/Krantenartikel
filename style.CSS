@@ -1,0 +1,30 @@
+.Maintext{
+	background-color: #FFFFFF;
+	margin-left:  60px;
+	margin-right: 60px;
+	padding: 20px 60px 5% 60px;
+	border: solid 1px #000000;
+	} 
+.Container{
+	background-color: #4aa4a8; 
+}
+
+img{
+	width: 20em;
+	height: 10em;
+	border: solid 2px #000000;
+}
+.vloot1{
+	float: left;
+	margin: 0.5%;
+}
+
+.vloot2{
+	float: right;
+	margin: 0.5%;
+}
+
+.vloot3{
+	float: left;
+	margin: 0.5%;
+}
